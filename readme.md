@@ -1,8 +1,8 @@
 # JavaScript Clock
-This is a simple JavaScript clock. I will continue building this out by adding the numbers that count down with the live clock. I also need to figure out a way to decrease the length of the hour hand. Right now all hands are of equal length.
+This project is a JavaScript clock. I will continue building this project out by adding the numbers that count down with the live clock. 
 
 ## Installation
-Type the following command in your terminal, and clone this project. 
+Type the following command in your terminal, and clone the project. 
 ```python
 git clone https://github.com/jamesdesigns/javascript-clock
 ```
